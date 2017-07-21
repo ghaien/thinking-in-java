@@ -2,12 +2,882 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="51530794-f5dc-42b8-bc6f-47323c563e66" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/ghaien/five/one/Input.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/ghaien/five/one/PostOffice.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/ghaien/five/one/RoShamBo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/ghaien/five/one/VendingMachine.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/org/fenixsoft/clazz/TestClass.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TIJ4-code/net/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TIJ4-code/net/.idea/workspace.xml" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/Copyright.txt" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/Copyright.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/DEclipse.py" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/DEclipse.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/Eclipse.py" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/Eclipse.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/FindBugsExcluder.py" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/FindBugsExcluder.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/FindBugsFilter.xml" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/FindBugsFilter.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/JavaLint.py" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/JavaLint.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/OutputGenerator.py" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/OutputGenerator.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/OutputVerifier.py" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/OutputVerifier.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/RedundantImportDetector.py" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/RedundantImportDetector.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/access/Cake.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/access/Cake.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/access/ChocolateChip.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/access/ChocolateChip.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/access/ChocolateChip2.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/access/ChocolateChip2.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/access/Dinner.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/access/Dinner.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/access/FullQualification.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/access/FullQualification.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/access/IceCream.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/access/IceCream.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/access/ImportedMyClass.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/access/ImportedMyClass.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/access/LibTest.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/access/LibTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/access/Lunch.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/access/Lunch.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/access/OrganizedByAccess.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/access/OrganizedByAccess.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/access/Pie.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/access/Pie.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/access/PrintTest.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/access/PrintTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/access/QualifiedMyClass.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/access/QualifiedMyClass.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/access/SingleImport.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/access/SingleImport.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/access/build.xml" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/access/build.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/access/cookie2/Cookie.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/access/cookie2/Cookie.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/access/dessert/Cookie.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/access/dessert/Cookie.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/access/mypackage/MyClass.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/access/mypackage/MyClass.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/annotations/AtUnitComposition.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/annotations/AtUnitComposition.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/annotations/AtUnitExample1.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/annotations/AtUnitExample1.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/annotations/AtUnitExample2.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/annotations/AtUnitExample2.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/annotations/AtUnitExample3.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/annotations/AtUnitExample3.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/annotations/AtUnitExample4.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/annotations/AtUnitExample4.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/annotations/AtUnitExample5.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/annotations/AtUnitExample5.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/annotations/AtUnitExternalTest.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/annotations/AtUnitExternalTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/annotations/ExtractInterface.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/annotations/ExtractInterface.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/annotations/HashSetTest.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/annotations/HashSetTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/annotations/InterfaceExtractorProcessor.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/annotations/InterfaceExtractorProcessor.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/annotations/InterfaceExtractorProcessorFactory.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/annotations/InterfaceExtractorProcessorFactory.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/annotations/Multiplier.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/annotations/Multiplier.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/annotations/PasswordUtils.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/annotations/PasswordUtils.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/annotations/SimulatingNull.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/annotations/SimulatingNull.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/annotations/StackL.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/annotations/StackL.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/annotations/StackLStringTest.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/annotations/StackLStringTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/annotations/Testable.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/annotations/Testable.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/annotations/UseCase.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/annotations/UseCase.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/annotations/UseCaseTracker.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/annotations/UseCaseTracker.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/annotations/build.xml" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/annotations/build.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/annotations/database/Constraints.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/annotations/database/Constraints.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/annotations/database/DBTable.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/annotations/database/DBTable.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/annotations/database/Member.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/annotations/database/Member.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/annotations/database/SQLInteger.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/annotations/database/SQLInteger.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/annotations/database/SQLString.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/annotations/database/SQLString.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/annotations/database/TableCreationProcessorFactory.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/annotations/database/TableCreationProcessorFactory.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/annotations/database/TableCreator.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/annotations/database/TableCreator.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/annotations/database/Uniqueness.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/annotations/database/Uniqueness.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/arrays/AlphabeticSearch.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/arrays/AlphabeticSearch.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/arrays/ArrayOfGenericType.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/arrays/ArrayOfGenericType.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/arrays/ArrayOfGenerics.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/arrays/ArrayOfGenerics.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/arrays/ArrayOptions.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/arrays/ArrayOptions.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/arrays/ArraySearching.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/arrays/ArraySearching.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/arrays/AssemblingMultidimensionalArrays.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/arrays/AssemblingMultidimensionalArrays.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/arrays/AutoboxingArrays.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/arrays/AutoboxingArrays.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/arrays/CompType.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/arrays/CompType.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/arrays/ComparatorTest.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/arrays/ComparatorTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/arrays/ComparingArrays.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/arrays/ComparingArrays.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/arrays/ContainerComparison.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/arrays/ContainerComparison.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/arrays/CopyingArrays.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/arrays/CopyingArrays.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/arrays/FillingArrays.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/arrays/FillingArrays.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/arrays/GeneratorsTest.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/arrays/GeneratorsTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/arrays/IceCream.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/arrays/IceCream.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/arrays/MultiDimWrapperArray.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/arrays/MultiDimWrapperArray.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/arrays/MultidimensionalObjectArrays.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/arrays/MultidimensionalObjectArrays.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/arrays/MultidimensionalPrimitiveArray.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/arrays/MultidimensionalPrimitiveArray.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/arrays/ParameterizedArrayType.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/arrays/ParameterizedArrayType.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/arrays/PrimitiveConversionDemonstration.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/arrays/PrimitiveConversionDemonstration.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/arrays/RaggedArray.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/arrays/RaggedArray.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/arrays/RandomGeneratorsTest.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/arrays/RandomGeneratorsTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/arrays/Reverse.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/arrays/Reverse.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/arrays/StringSorting.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/arrays/StringSorting.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/arrays/TestArrayGeneration.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/arrays/TestArrayGeneration.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/arrays/TestGenerated.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/arrays/TestGenerated.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/arrays/ThreeDWithNew.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/arrays/ThreeDWithNew.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/arrays/build.xml" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/arrays/build.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/bangbean/BangBean.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/bangbean/BangBean.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/bangbean/BangBeanTest.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/bangbean/BangBeanTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/bangbean/build.xml" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/bangbean/build.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/build.xml" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/build.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/chapterOrder.xml" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/chapterOrder.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/concurrency/ActiveObjectDemo.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/concurrency/ActiveObjectDemo.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/concurrency/AtomicEvenGenerator.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/concurrency/AtomicEvenGenerator.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/concurrency/AtomicIntegerTest.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/concurrency/AtomicIntegerTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/concurrency/Atomicity.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/concurrency/Atomicity.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/concurrency/AtomicityTest.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/concurrency/AtomicityTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/concurrency/AttemptLocking.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/concurrency/AttemptLocking.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/concurrency/BankTellerSimulation.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/concurrency/BankTellerSimulation.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/concurrency/BasicThreads.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/concurrency/BasicThreads.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/concurrency/CachedThreadPool.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/concurrency/CachedThreadPool.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/concurrency/CallableDemo.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/concurrency/CallableDemo.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/concurrency/CaptureUncaughtException.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/concurrency/CaptureUncaughtException.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/concurrency/CarBuilder.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/concurrency/CarBuilder.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/concurrency/Chopstick.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/concurrency/Chopstick.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/concurrency/CloseResource.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/concurrency/CloseResource.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/concurrency/CountDownLatchDemo.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/concurrency/CountDownLatchDemo.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/concurrency/CriticalSection.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/concurrency/CriticalSection.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/concurrency/DaemonFromFactory.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/concurrency/DaemonFromFactory.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/concurrency/Daemons.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/concurrency/Daemons.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/concurrency/DaemonsDontRunFinally.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/concurrency/DaemonsDontRunFinally.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/concurrency/DeadlockingDiningPhilosophers.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/concurrency/DeadlockingDiningPhilosophers.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/concurrency/DelayQueueDemo.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/concurrency/DelayQueueDemo.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/concurrency/EvenChecker.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/concurrency/EvenChecker.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/concurrency/EvenGenerator.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/concurrency/EvenGenerator.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/concurrency/ExceptionThread.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/concurrency/ExceptionThread.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/concurrency/ExchangerDemo.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/concurrency/ExchangerDemo.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/concurrency/ExplicitCriticalSection.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/concurrency/ExplicitCriticalSection.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/concurrency/FastSimulation.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/concurrency/FastSimulation.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/concurrency/Fat.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/concurrency/Fat.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/concurrency/FixedDiningPhilosophers.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/concurrency/FixedDiningPhilosophers.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/concurrency/FixedThreadPool.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/concurrency/FixedThreadPool.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/concurrency/GreenhouseScheduler.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/concurrency/GreenhouseScheduler.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/concurrency/HorseRace.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/concurrency/HorseRace.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/concurrency/IntGenerator.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/concurrency/IntGenerator.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/concurrency/Interrupting.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/concurrency/Interrupting.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/concurrency/Interrupting2.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/concurrency/Interrupting2.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/concurrency/InterruptingIdiom.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/concurrency/InterruptingIdiom.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/concurrency/Joining.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/concurrency/Joining.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/concurrency/LiftOff.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/concurrency/LiftOff.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/concurrency/ListComparisons.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/concurrency/ListComparisons.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/concurrency/MainThread.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/concurrency/MainThread.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/concurrency/MapComparisons.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/concurrency/MapComparisons.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/concurrency/MoreBasicThreads.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/concurrency/MoreBasicThreads.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/concurrency/MultiLock.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/concurrency/MultiLock.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/concurrency/MutexEvenGenerator.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/concurrency/MutexEvenGenerator.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/concurrency/NIOInterruption.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/concurrency/NIOInterruption.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/concurrency/NaiveExceptionHandling.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/concurrency/NaiveExceptionHandling.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/concurrency/NotifyVsNotifyAll.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/concurrency/NotifyVsNotifyAll.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/concurrency/OrnamentalGarden.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/concurrency/OrnamentalGarden.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/concurrency/Philosopher.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/concurrency/Philosopher.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/concurrency/PipedIO.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/concurrency/PipedIO.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/concurrency/Pool.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/concurrency/Pool.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/concurrency/PriorityBlockingQueueDemo.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/concurrency/PriorityBlockingQueueDemo.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/concurrency/ReaderWriterList.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/concurrency/ReaderWriterList.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/concurrency/ResponsiveUI.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/concurrency/ResponsiveUI.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/concurrency/Restaurant.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/concurrency/Restaurant.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/concurrency/SelfManaged.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/concurrency/SelfManaged.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/concurrency/SemaphoreDemo.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/concurrency/SemaphoreDemo.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/concurrency/SerialNumberChecker.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/concurrency/SerialNumberChecker.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/concurrency/SerialNumberGenerator.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/concurrency/SerialNumberGenerator.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/concurrency/SettingDefaultHandler.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/concurrency/SettingDefaultHandler.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/concurrency/SimpleDaemons.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/concurrency/SimpleDaemons.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/concurrency/SimpleMicroBenchmark.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/concurrency/SimpleMicroBenchmark.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/concurrency/SimplePriorities.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/concurrency/SimplePriorities.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/concurrency/SimpleThread.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/concurrency/SimpleThread.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/concurrency/SingleThreadExecutor.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/concurrency/SingleThreadExecutor.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/concurrency/SleepingTask.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/concurrency/SleepingTask.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/concurrency/SyncObject.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/concurrency/SyncObject.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/concurrency/SynchronizationComparisons.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/concurrency/SynchronizationComparisons.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/concurrency/SynchronizedEvenGenerator.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/concurrency/SynchronizedEvenGenerator.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/concurrency/TestBlockingQueues.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/concurrency/TestBlockingQueues.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/concurrency/Tester.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/concurrency/Tester.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/concurrency/ThreadLocalVariableHolder.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/concurrency/ThreadLocalVariableHolder.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/concurrency/ThreadVariations.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/concurrency/ThreadVariations.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/concurrency/ToastOMatic.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/concurrency/ToastOMatic.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/concurrency/build.xml" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/concurrency/build.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/concurrency/restaurant2/RestaurantWithQueues.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/concurrency/restaurant2/RestaurantWithQueues.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/concurrency/waxomatic/WaxOMatic.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/concurrency/waxomatic/WaxOMatic.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/concurrency/waxomatic2/WaxOMatic2.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/concurrency/waxomatic2/WaxOMatic2.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/containers/AssociativeArray.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/containers/AssociativeArray.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/containers/Bits.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/containers/Bits.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/containers/CanonicalMapping.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/containers/CanonicalMapping.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/containers/CollectionDataGeneration.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/containers/CollectionDataGeneration.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/containers/CollectionDataTest.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/containers/CollectionDataTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/containers/CollectionMethods.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/containers/CollectionMethods.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/containers/CountedString.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/containers/CountedString.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/containers/DequeTest.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/containers/DequeTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/containers/Enumerations.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/containers/Enumerations.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/containers/FailFast.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/containers/FailFast.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/containers/FillingLists.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/containers/FillingLists.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/containers/Groundhog.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/containers/Groundhog.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/containers/Groundhog2.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/containers/Groundhog2.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/containers/IndividualTest.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/containers/IndividualTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/containers/LinkedHashMapDemo.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/containers/LinkedHashMapDemo.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/containers/ListPerformance.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/containers/ListPerformance.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/containers/ListSortSearch.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/containers/ListSortSearch.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/containers/Lists.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/containers/Lists.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/containers/MapDataTest.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/containers/MapDataTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/containers/MapEntry.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/containers/MapEntry.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/containers/MapPerformance.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/containers/MapPerformance.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/containers/Maps.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/containers/Maps.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/containers/Prediction.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/containers/Prediction.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/containers/QueueBehavior.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/containers/QueueBehavior.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/containers/RandomBounds.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/containers/RandomBounds.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/containers/ReadOnly.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/containers/ReadOnly.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/containers/References.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/containers/References.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/containers/SetPerformance.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/containers/SetPerformance.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/containers/SimpleHashMap.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/containers/SimpleHashMap.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/containers/SlowMap.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/containers/SlowMap.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/containers/SortedMapDemo.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/containers/SortedMapDemo.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/containers/SortedSetDemo.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/containers/SortedSetDemo.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/containers/SpringDetector.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/containers/SpringDetector.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/containers/SpringDetector2.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/containers/SpringDetector2.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/containers/Stacks.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/containers/Stacks.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/containers/StringHashCode.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/containers/StringHashCode.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/containers/Synchronization.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/containers/Synchronization.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/containers/Test.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/containers/Test.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/containers/TestParam.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/containers/TestParam.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/containers/Tester.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/containers/Tester.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/containers/ToDoList.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/containers/ToDoList.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/containers/TypesForSets.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/containers/TypesForSets.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/containers/Unsupported.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/containers/Unsupported.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/containers/Utilities.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/containers/Utilities.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/containers/build.xml" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/containers/build.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/control/BreakAndContinue.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/control/BreakAndContinue.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/control/CommaOperator.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/control/CommaOperator.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/control/ForEachFloat.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/control/ForEachFloat.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/control/ForEachInt.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/control/ForEachInt.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/control/ForEachString.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/control/ForEachString.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/control/IfElse.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/control/IfElse.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/control/IfElse2.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/control/IfElse2.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/control/LabeledFor.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/control/LabeledFor.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/control/LabeledWhile.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/control/LabeledWhile.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/control/ListCharacters.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/control/ListCharacters.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/control/VowelsAndConsonants.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/control/VowelsAndConsonants.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/control/WhileTest.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/control/WhileTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/control/build.xml" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/control/build.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/enumerated/AlarmPoints.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/enumerated/AlarmPoints.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/enumerated/BigEnumSet.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/enumerated/BigEnumSet.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/enumerated/Burrito.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/enumerated/Burrito.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/enumerated/CarWash.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/enumerated/CarWash.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/enumerated/Competitor.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/enumerated/Competitor.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/enumerated/ConstantSpecificMethod.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/enumerated/ConstantSpecificMethod.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/enumerated/EnumClass.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/enumerated/EnumClass.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/enumerated/EnumMaps.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/enumerated/EnumMaps.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/enumerated/EnumSets.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/enumerated/EnumSets.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/enumerated/Input.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/enumerated/Input.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/enumerated/NonEnum.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/enumerated/NonEnum.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/enumerated/NotClasses.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/enumerated/NotClasses.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/enumerated/Outcome.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/enumerated/Outcome.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/enumerated/OverrideConstantSpecific.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/enumerated/OverrideConstantSpecific.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/enumerated/OzWitch.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/enumerated/OzWitch.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/enumerated/PostOffice.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/enumerated/PostOffice.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/enumerated/RandomTest.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/enumerated/RandomTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/enumerated/Reflection.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/enumerated/Reflection.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/enumerated/RoShamBo.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/enumerated/RoShamBo.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/enumerated/RoShamBo1.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/enumerated/RoShamBo1.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/enumerated/RoShamBo2.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/enumerated/RoShamBo2.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/enumerated/RoShamBo3.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/enumerated/RoShamBo3.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/enumerated/RoShamBo4.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/enumerated/RoShamBo4.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/enumerated/RoShamBo5.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/enumerated/RoShamBo5.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/enumerated/RoShamBo6.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/enumerated/RoShamBo6.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/enumerated/SecurityCategory.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/enumerated/SecurityCategory.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/enumerated/SpaceShip.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/enumerated/SpaceShip.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/enumerated/Spiciness.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/enumerated/Spiciness.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/enumerated/TrafficLight.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/enumerated/TrafficLight.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/enumerated/UpcastEnum.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/enumerated/UpcastEnum.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/enumerated/VendingMachine.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/enumerated/VendingMachine.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/enumerated/VendingMachineInput.txt" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/enumerated/VendingMachineInput.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/enumerated/build.xml" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/enumerated/build.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/enumerated/cartoons/EnumImplementation.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/enumerated/cartoons/EnumImplementation.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/enumerated/menu/Course.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/enumerated/menu/Course.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/enumerated/menu/Food.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/enumerated/menu/Food.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/enumerated/menu/Meal.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/enumerated/menu/Meal.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/enumerated/menu/Meal2.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/enumerated/menu/Meal2.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/enumerated/menu/TypeOfFood.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/enumerated/menu/TypeOfFood.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/exceptions/AlwaysFinally.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/exceptions/AlwaysFinally.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/exceptions/Cleanup.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/exceptions/Cleanup.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/exceptions/CleanupIdiom.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/exceptions/CleanupIdiom.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/exceptions/DynamicFields.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/exceptions/DynamicFields.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/exceptions/ExceptionMethods.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/exceptions/ExceptionMethods.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/exceptions/ExceptionSilencer.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/exceptions/ExceptionSilencer.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/exceptions/ExtraFeatures.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/exceptions/ExtraFeatures.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/exceptions/FinallyWorks.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/exceptions/FinallyWorks.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/exceptions/FullConstructors.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/exceptions/FullConstructors.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/exceptions/Human.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/exceptions/Human.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/exceptions/InheritingExceptions.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/exceptions/InheritingExceptions.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/exceptions/InputFile.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/exceptions/InputFile.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/exceptions/LoggingExceptions.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/exceptions/LoggingExceptions.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/exceptions/LoggingExceptions2.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/exceptions/LoggingExceptions2.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/exceptions/LostMessage.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/exceptions/LostMessage.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/exceptions/MainException.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/exceptions/MainException.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/exceptions/MultipleReturns.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/exceptions/MultipleReturns.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/exceptions/NeverCaught.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/exceptions/NeverCaught.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/exceptions/OnOffException1.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/exceptions/OnOffException1.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/exceptions/OnOffException2.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/exceptions/OnOffException2.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/exceptions/OnOffSwitch.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/exceptions/OnOffSwitch.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/exceptions/RethrowNew.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/exceptions/RethrowNew.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/exceptions/Rethrowing.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/exceptions/Rethrowing.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/exceptions/StormyInning.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/exceptions/StormyInning.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/exceptions/Switch.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/exceptions/Switch.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/exceptions/TurnOffChecking.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/exceptions/TurnOffChecking.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/exceptions/WhoCalled.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/exceptions/WhoCalled.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/exceptions/WithFinally.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/exceptions/WithFinally.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/exceptions/build.xml" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/exceptions/build.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/frogbean/Frog.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/frogbean/Frog.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/frogbean/build.xml" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/frogbean/build.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/Apply.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/Apply.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/ArrayMaker.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/ArrayMaker.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/ArrayOfGeneric.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/ArrayOfGeneric.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/ArrayOfGenericReference.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/ArrayOfGenericReference.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/BankTeller.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/BankTeller.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/BasicBounds.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/BasicBounds.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/BasicGeneratorDemo.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/BasicGeneratorDemo.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/BasicHolder.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/BasicHolder.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/ByteSet.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/ByteSet.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/CRGWithBasicHolder.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/CRGWithBasicHolder.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/CaptureConversion.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/CaptureConversion.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/CheckedList.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/CheckedList.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/ClassCasting.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/ClassCasting.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/ClassTypeCapture.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/ClassTypeCapture.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/ComparablePet.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/ComparablePet.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/CompilerIntelligence.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/CompilerIntelligence.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/CountedObject.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/CountedObject.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/CovariantArrays.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/CovariantArrays.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/CovariantReturnTypes.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/CovariantReturnTypes.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/CreatorGeneric.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/CreatorGeneric.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/CuriouslyRecurringGeneric.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/CuriouslyRecurringGeneric.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/DogsAndRobots.cpp" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/DogsAndRobots.cpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/DogsAndRobots.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/DogsAndRobots.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/DynamicProxyMixin.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/DynamicProxyMixin.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/EpicBattle.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/EpicBattle.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/Erased.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/Erased.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/ErasedTypeEquivalence.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/ErasedTypeEquivalence.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/ErasureAndInheritance.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/ErasureAndInheritance.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/ExplicitTypeSpecification.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/ExplicitTypeSpecification.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/FactoryConstraint.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/FactoryConstraint.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/Fibonacci.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/Fibonacci.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/Fill.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/Fill.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/Fill2.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/Fill2.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/FilledListMaker.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/FilledListMaker.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/Functional.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/Functional.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/Generators.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/Generators.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/GenericArray.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/GenericArray.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/GenericArray2.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/GenericArray2.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/GenericArrayWithTypeToken.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/GenericArrayWithTypeToken.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/GenericCast.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/GenericCast.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/GenericHolder.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/GenericHolder.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/GenericMethods.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/GenericMethods.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/GenericReading.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/GenericReading.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/GenericVarargs.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/GenericVarargs.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/GenericWriting.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/GenericWriting.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/GenericsAndCovariance.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/GenericsAndCovariance.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/GenericsAndReturnTypes.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/GenericsAndReturnTypes.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/HasF.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/HasF.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/HijackedInterface.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/HijackedInterface.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/Holder.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/Holder.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/Holder1.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/Holder1.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/Holder2.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/Holder2.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/Holder3.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/Holder3.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/InheritBounds.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/InheritBounds.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/InstantiateGenericType.cpp" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/InstantiateGenericType.cpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/InstantiateGenericType.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/InstantiateGenericType.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/IterableFibonacci.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/IterableFibonacci.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/LatentReflection.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/LatentReflection.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/LimitsOfInference.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/LimitsOfInference.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/LinkedStack.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/LinkedStack.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/ListMaker.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/ListMaker.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/ListOfGenerics.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/ListOfGenerics.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/ListOfInt.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/ListOfInt.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/LostInformation.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/LostInformation.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/Manipulation.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/Manipulation.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/Manipulator2.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/Manipulator2.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/Manipulator3.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/Manipulator3.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/Mixins.cpp" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/Mixins.cpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/Mixins.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/Mixins.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/MultipleInterfaceVariants.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/MultipleInterfaceVariants.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/NeedCasting.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/NeedCasting.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/NonCovariantGenerics.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/NonCovariantGenerics.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/NotSelfBounded.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/NotSelfBounded.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/OrdinaryArguments.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/OrdinaryArguments.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/Performs.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/Performs.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/PlainGenericInheritance.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/PlainGenericInheritance.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/PrimitiveGenericTest.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/PrimitiveGenericTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/RandomList.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/RandomList.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/RestrictedComparablePets.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/RestrictedComparablePets.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/ReturnGenericType.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/ReturnGenericType.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/SelfBounding.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/SelfBounding.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/SelfBoundingAndCovariantArguments.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/SelfBoundingAndCovariantArguments.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/SelfBoundingMethods.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/SelfBoundingMethods.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/SimpleDogsAndRobots.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/SimpleDogsAndRobots.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/SimpleHolder.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/SimpleHolder.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/SimpleQueue.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/SimpleQueue.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/SimplerPets.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/SimplerPets.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/Store.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/Store.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/SuperTypeWildcards.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/SuperTypeWildcards.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/Templates.cpp" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/Templates.cpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/ThrowGenericException.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/ThrowGenericException.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/TupleList.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/TupleList.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/TupleTest.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/TupleTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/TupleTest2.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/TupleTest2.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/UnboundedWildcards1.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/UnboundedWildcards1.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/UnboundedWildcards2.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/UnboundedWildcards2.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/Unconstrained.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/Unconstrained.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/UseList.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/UseList.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/UseList2.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/UseList2.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/WatercolorSets.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/WatercolorSets.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/Wildcards.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/Wildcards.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/build.xml" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/build.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/coffee/Americano.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/coffee/Americano.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/coffee/Breve.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/coffee/Breve.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/coffee/Cappuccino.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/coffee/Cappuccino.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/coffee/Coffee.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/coffee/Coffee.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/coffee/CoffeeGenerator.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/coffee/CoffeeGenerator.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/coffee/Latte.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/coffee/Latte.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/coffee/Mocha.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/coffee/Mocha.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/decorator/Decoration.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/decorator/Decoration.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/generics/watercolors/Watercolors.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/generics/watercolors/Watercolors.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/gui/BangBean2.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/gui/BangBean2.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/gui/BeanDumper.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/gui/BeanDumper.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/gui/BorderLayout1.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/gui/BorderLayout1.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/gui/Borders.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/gui/Borders.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/gui/Button1.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/gui/Button1.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/gui/Button2.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/gui/Button2.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/gui/Button2b.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/gui/Button2b.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/gui/ButtonGroups.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/gui/ButtonGroups.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/gui/Buttons.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/gui/Buttons.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/gui/CheckBoxes.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/gui/CheckBoxes.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/gui/ColorBoxes.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/gui/ColorBoxes.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/gui/ComboBoxes.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/gui/ComboBoxes.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/gui/Dialogs.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/gui/Dialogs.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/gui/Face0.gif" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/gui/Face0.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/gui/Face1.gif" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/gui/Face1.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/gui/Face2.gif" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/gui/Face2.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/gui/Face3.gif" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/gui/Face3.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/gui/Face4.gif" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/gui/Face4.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/gui/Faces.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/gui/Faces.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/gui/FileChooserTest.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/gui/FileChooserTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/gui/FlowLayout1.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/gui/FlowLayout1.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/gui/GridLayout1.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/gui/GridLayout1.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/gui/HTMLButton.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/gui/HTMLButton.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/gui/HelloLabel.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/gui/HelloLabel.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/gui/HelloSwing.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/gui/HelloSwing.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/gui/InterruptableLongRunningCallable.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/gui/InterruptableLongRunningCallable.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/gui/InterruptableLongRunningTask.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/gui/InterruptableLongRunningTask.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/gui/List.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/gui/List.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/gui/LongRunningTask.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/gui/LongRunningTask.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/gui/LookAndFeel.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/gui/LookAndFeel.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/gui/Menus.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/gui/Menus.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/gui/MessageBoxes.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/gui/MessageBoxes.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/gui/MonitoredLongRunningCallable.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/gui/MonitoredLongRunningCallable.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/gui/Popup.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/gui/Popup.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/gui/Progress.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/gui/Progress.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/gui/RadioButtons.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/gui/RadioButtons.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/gui/ShowAddListeners.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/gui/ShowAddListeners.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/gui/SimpleMenus.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/gui/SimpleMenus.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/gui/SineWave.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/gui/SineWave.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/gui/SubmitLabelManipulationTask.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/gui/SubmitLabelManipulationTask.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/gui/SubmitSwingProgram.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/gui/SubmitSwingProgram.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/gui/TabbedPane1.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/gui/TabbedPane1.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/gui/TextArea.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/gui/TextArea.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/gui/TextFields.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/gui/TextFields.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/gui/TextPane.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/gui/TextPane.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/gui/TicTacToe.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/gui/TicTacToe.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/gui/TrackEvent.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/gui/TrackEvent.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/gui/build.xml" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/gui/build.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/gui/flex/Song.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/gui/flex/Song.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/gui/flex/SongService.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/gui/flex/SongService.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/gui/flex/build-command.txt" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/gui/flex/build-command.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/gui/flex/helloflex1.mxml" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/gui/flex/helloflex1.mxml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/gui/flex/helloflex2.mxml" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/gui/flex/helloflex2.mxml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/gui/flex/songScript.as" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/gui/flex/songScript.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/gui/flex/songStyles.css" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/gui/flex/songStyles.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/gui/flex/songs.mxml" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/gui/flex/songs.mxml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/gui/jnlp/JnlpFileChooser.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/gui/jnlp/JnlpFileChooser.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/gui/jnlp/filechooser.html" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/gui/jnlp/filechooser.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/gui/jnlp/filechooser.jnlp" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/gui/jnlp/filechooser.jnlp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/gui/jnlp/mindview.gif" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/gui/jnlp/mindview.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/holding/AdapterMethodIdiom.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/holding/AdapterMethodIdiom.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/holding/AddingGroups.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/holding/AddingGroups.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/holding/ApplesAndOrangesWithGenerics.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/holding/ApplesAndOrangesWithGenerics.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/holding/ApplesAndOrangesWithoutGenerics.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/holding/ApplesAndOrangesWithoutGenerics.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/holding/ArrayIsNotIterable.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/holding/ArrayIsNotIterable.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/holding/AsListInference.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/holding/AsListInference.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/holding/CollectionSequence.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/holding/CollectionSequence.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/holding/ContainerMethods.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/holding/ContainerMethods.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/holding/CrossContainerIteration.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/holding/CrossContainerIteration.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/holding/EnvironmentVariables.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/holding/EnvironmentVariables.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/holding/ForEachCollections.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/holding/ForEachCollections.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/holding/GenericsAndUpcasting.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/holding/GenericsAndUpcasting.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/holding/InterfaceVsIterator.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/holding/InterfaceVsIterator.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/holding/IterableClass.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/holding/IterableClass.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/holding/LinkedListFeatures.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/holding/LinkedListFeatures.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/holding/ListFeatures.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/holding/ListFeatures.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/holding/ListIteration.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/holding/ListIteration.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/holding/MapOfList.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/holding/MapOfList.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/holding/ModifyingArraysAsList.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/holding/ModifyingArraysAsList.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/holding/MultiIterableClass.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/holding/MultiIterableClass.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/holding/NonCollectionSequence.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/holding/NonCollectionSequence.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/holding/PetMap.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/holding/PetMap.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/holding/PrintingContainers.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/holding/PrintingContainers.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/holding/PriorityQueueDemo.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/holding/PriorityQueueDemo.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/holding/QueueDemo.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/holding/QueueDemo.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/holding/SetOfInteger.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/holding/SetOfInteger.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/holding/SetOperations.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/holding/SetOperations.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/holding/SimpleCollection.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/holding/SimpleCollection.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/holding/SimpleIteration.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/holding/SimpleIteration.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/holding/SortedSetOfInteger.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/holding/SortedSetOfInteger.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/holding/StackCollision.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/holding/StackCollision.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/holding/StackTest.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/holding/StackTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/holding/Statistics.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/holding/Statistics.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/holding/UniqueWords.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/holding/UniqueWords.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/holding/UniqueWordsAlphabetic.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/holding/UniqueWordsAlphabetic.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/holding/build.xml" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/holding/build.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/initialization/Apricot.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/initialization/Apricot.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/initialization/ArrayClassObj.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/initialization/ArrayClassObj.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/initialization/ArrayInit.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/initialization/ArrayInit.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/initialization/ArrayNew.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/initialization/ArrayNew.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/initialization/ArraysOfPrimitives.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/initialization/ArraysOfPrimitives.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/initialization/AutoboxingVarargs.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/initialization/AutoboxingVarargs.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/initialization/BananaPeel.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/initialization/BananaPeel.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/initialization/Burrito.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/initialization/Burrito.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/initialization/Counter.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/initialization/Counter.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/initialization/DefaultConstructor.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/initialization/DefaultConstructor.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/initialization/Demotion.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/initialization/Demotion.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/initialization/DynamicArray.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/initialization/DynamicArray.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/initialization/EnumOrder.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/initialization/EnumOrder.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/initialization/ExplicitStatic.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/initialization/ExplicitStatic.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/initialization/Flower.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/initialization/Flower.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/initialization/InitialValues.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/initialization/InitialValues.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/initialization/InitialValues2.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/initialization/InitialValues2.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/initialization/Leaf.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/initialization/Leaf.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/initialization/Measurement.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/initialization/Measurement.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/initialization/MethodInit.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/initialization/MethodInit.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/initialization/MethodInit2.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/initialization/MethodInit2.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/initialization/MethodInit3.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/initialization/MethodInit3.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/initialization/Mugs.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/initialization/Mugs.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/initialization/NewVarArgs.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/initialization/NewVarArgs.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/initialization/NoSynthesis.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/initialization/NoSynthesis.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/initialization/OptionalTrailingArguments.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/initialization/OptionalTrailingArguments.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/initialization/OrderOfInitialization.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/initialization/OrderOfInitialization.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/initialization/Overloading.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/initialization/Overloading.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/initialization/OverloadingOrder.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/initialization/OverloadingOrder.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/initialization/OverloadingVarargs.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/initialization/OverloadingVarargs.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/initialization/OverloadingVarargs2.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/initialization/OverloadingVarargs2.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/initialization/OverloadingVarargs3.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/initialization/OverloadingVarargs3.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/initialization/PassingThis.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/initialization/PassingThis.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/initialization/PrimitiveOverloading.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/initialization/PrimitiveOverloading.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/initialization/SimpleConstructor.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/initialization/SimpleConstructor.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/initialization/SimpleConstructor2.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/initialization/SimpleConstructor2.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/initialization/SimpleEnumUse.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/initialization/SimpleEnumUse.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/initialization/Spiciness.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/initialization/Spiciness.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/initialization/Spoon.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/initialization/Spoon.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/initialization/StaticInitialization.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/initialization/StaticInitialization.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/initialization/TerminationCondition.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/initialization/TerminationCondition.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/initialization/VarArgs.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/initialization/VarArgs.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/initialization/VarargType.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/initialization/VarargType.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/initialization/build.xml" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/initialization/build.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/innerclasses/AnonymousConstructor.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/innerclasses/AnonymousConstructor.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/innerclasses/BigEgg.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/innerclasses/BigEgg.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/innerclasses/BigEgg2.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/innerclasses/BigEgg2.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/innerclasses/Callbacks.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/innerclasses/Callbacks.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/innerclasses/ClassInInterface.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/innerclasses/ClassInInterface.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/innerclasses/Contents.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/innerclasses/Contents.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/innerclasses/Destination.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/innerclasses/Destination.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/innerclasses/DotNew.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/innerclasses/DotNew.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/innerclasses/DotThis.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/innerclasses/DotThis.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/innerclasses/Factories.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/innerclasses/Factories.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/innerclasses/Games.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/innerclasses/Games.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/innerclasses/GreenhouseController.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/innerclasses/GreenhouseController.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/innerclasses/GreenhouseControls.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/innerclasses/GreenhouseControls.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/innerclasses/InheritInner.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/innerclasses/InheritInner.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/innerclasses/LocalInnerClass.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/innerclasses/LocalInnerClass.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/innerclasses/MultiImplementation.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/innerclasses/MultiImplementation.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/innerclasses/MultiInterfaces.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/innerclasses/MultiInterfaces.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/innerclasses/MultiNestingAccess.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/innerclasses/MultiNestingAccess.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/innerclasses/Parcel1.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/innerclasses/Parcel1.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/innerclasses/Parcel10.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/innerclasses/Parcel10.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/innerclasses/Parcel11.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/innerclasses/Parcel11.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/innerclasses/Parcel2.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/innerclasses/Parcel2.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/innerclasses/Parcel3.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/innerclasses/Parcel3.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/innerclasses/Parcel5.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/innerclasses/Parcel5.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/innerclasses/Parcel6.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/innerclasses/Parcel6.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/innerclasses/Parcel7.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/innerclasses/Parcel7.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/innerclasses/Parcel7b.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/innerclasses/Parcel7b.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/innerclasses/Parcel8.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/innerclasses/Parcel8.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/innerclasses/Parcel9.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/innerclasses/Parcel9.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/innerclasses/Sequence.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/innerclasses/Sequence.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/innerclasses/TestBed.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/innerclasses/TestBed.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/innerclasses/TestParcel.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/innerclasses/TestParcel.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/innerclasses/Wrapping.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/innerclasses/Wrapping.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/innerclasses/build.xml" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/innerclasses/build.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/innerclasses/controller/Controller.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/innerclasses/controller/Controller.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/innerclasses/controller/Event.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/innerclasses/controller/Event.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/interfaces/AdaptedRandomDoubles.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/interfaces/AdaptedRandomDoubles.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/interfaces/Adventure.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/interfaces/Adventure.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/interfaces/Factories.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/interfaces/Factories.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/interfaces/Games.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/interfaces/Games.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/interfaces/HorrorShow.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/interfaces/HorrorShow.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/interfaces/InterfaceCollision.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/interfaces/InterfaceCollision.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/interfaces/Months.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/interfaces/Months.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/interfaces/RandVals.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/interfaces/RandVals.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/interfaces/RandomDoubles.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/interfaces/RandomDoubles.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/interfaces/RandomWords.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/interfaces/RandomWords.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/interfaces/TestRandVals.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/interfaces/TestRandVals.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/interfaces/build.xml" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/interfaces/build.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/interfaces/classprocessor/Apply.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/interfaces/classprocessor/Apply.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/interfaces/filters/BandPass.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/interfaces/filters/BandPass.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/interfaces/filters/Filter.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/interfaces/filters/Filter.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/interfaces/filters/HighPass.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/interfaces/filters/HighPass.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/interfaces/filters/LowPass.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/interfaces/filters/LowPass.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/interfaces/filters/Waveform.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/interfaces/filters/Waveform.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/interfaces/interfaceprocessor/Apply.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/interfaces/interfaceprocessor/Apply.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/interfaces/interfaceprocessor/FilterProcessor.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/interfaces/interfaceprocessor/FilterProcessor.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/interfaces/interfaceprocessor/Processor.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/interfaces/interfaceprocessor/Processor.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/interfaces/interfaceprocessor/StringProcessor.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/interfaces/interfaceprocessor/StringProcessor.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/interfaces/music4/Music4.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/interfaces/music4/Music4.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/interfaces/music5/Music5.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/interfaces/music5/Music5.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/interfaces/nesting/NestingInterfaces.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/interfaces/nesting/NestingInterfaces.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/io/Alien.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/io/Alien.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/io/AvailableCharSets.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/io/AvailableCharSets.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/io/BasicFileOutput.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/io/BasicFileOutput.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/io/Blip3.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/io/Blip3.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/io/Blips.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/io/Blips.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/io/BufferToText.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/io/BufferToText.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/io/BufferedInputFile.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/io/BufferedInputFile.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/io/ChangeSystemOut.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/io/ChangeSystemOut.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/io/ChannelCopy.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/io/ChannelCopy.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/io/DirList.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/io/DirList.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/io/DirList2.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/io/DirList2.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/io/DirList3.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/io/DirList3.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/io/DirectoryDemo.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/io/DirectoryDemo.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/io/Echo.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/io/Echo.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/io/Endians.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/io/Endians.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/io/FileLocking.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/io/FileLocking.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/io/FileOutputShortcut.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/io/FileOutputShortcut.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/io/FormattedMemoryInput.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/io/FormattedMemoryInput.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/io/FreezeAlien.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/io/FreezeAlien.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/io/GZIPcompress.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/io/GZIPcompress.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/io/GetChannel.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/io/GetChannel.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/io/GetData.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/io/GetData.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/io/IntBufferDemo.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/io/IntBufferDemo.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/io/LargeMappedFiles.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/io/LargeMappedFiles.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/io/LockingMappedFiles.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/io/LockingMappedFiles.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/io/Logon.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/io/Logon.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/io/MakeDirectories.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/io/MakeDirectories.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/io/MappedIO.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/io/MappedIO.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/io/MemoryInput.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/io/MemoryInput.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/io/MyWorld.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/io/MyWorld.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/io/OSExecuteDemo.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/io/OSExecuteDemo.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/io/PreferencesDemo.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/io/PreferencesDemo.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/io/RecoverCADState.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/io/RecoverCADState.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/io/Redirecting.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/io/Redirecting.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/io/SerialCtl.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/io/SerialCtl.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/io/StoreCADState.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/io/StoreCADState.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/io/StoringAndRecoveringData.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/io/StoringAndRecoveringData.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/io/TestEOF.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/io/TestEOF.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/io/TransferTo.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/io/TransferTo.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/io/UsingBuffers.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/io/UsingBuffers.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/io/UsingRandomAccessFile.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/io/UsingRandomAccessFile.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/io/ViewBuffers.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/io/ViewBuffers.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/io/Worm.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/io/Worm.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/io/ZipCompress.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/io/ZipCompress.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/io/build.xml" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/io/build.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/io/xfiles/ThawAlien.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/io/xfiles/ThawAlien.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/net/build.xml" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/net/build.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/net/mindview/atunit/AtUnit.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/net/mindview/atunit/AtUnit.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/net/mindview/atunit/AtUnitRemover.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/net/mindview/atunit/AtUnitRemover.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/net/mindview/atunit/ClassNameFinder.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/net/mindview/atunit/ClassNameFinder.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/net/mindview/atunit/Test.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/net/mindview/atunit/Test.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/net/mindview/atunit/TestObjectCleanup.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/net/mindview/atunit/TestObjectCleanup.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/net/mindview/atunit/TestObjectCreate.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/net/mindview/atunit/TestObjectCreate.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/net/mindview/atunit/TestProperty.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/net/mindview/atunit/TestProperty.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/net/mindview/simple/List.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/net/mindview/simple/List.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/net/mindview/simple/Vector.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/net/mindview/simple/Vector.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/net/mindview/util/BasicGenerator.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/net/mindview/util/BasicGenerator.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/net/mindview/util/BinaryFile.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/net/mindview/util/BinaryFile.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/net/mindview/util/CollectionData.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/net/mindview/util/CollectionData.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/net/mindview/util/ContainerMethodDifferences.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/net/mindview/util/ContainerMethodDifferences.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/net/mindview/util/ConvertTo.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/net/mindview/util/ConvertTo.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/net/mindview/util/CountingGenerator.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/net/mindview/util/CountingGenerator.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/net/mindview/util/CountingIntegerList.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/net/mindview/util/CountingIntegerList.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/net/mindview/util/CountingMapData.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/net/mindview/util/CountingMapData.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/net/mindview/util/Countries.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/net/mindview/util/Countries.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/net/mindview/util/DaemonThreadFactory.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/net/mindview/util/DaemonThreadFactory.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/net/mindview/util/DaemonThreadPoolExecutor.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/net/mindview/util/DaemonThreadPoolExecutor.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/net/mindview/util/Deque.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/net/mindview/util/Deque.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/net/mindview/util/Directory.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/net/mindview/util/Directory.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/net/mindview/util/Enums.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/net/mindview/util/Enums.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/net/mindview/util/FiveTuple.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/net/mindview/util/FiveTuple.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/net/mindview/util/FourTuple.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/net/mindview/util/FourTuple.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/net/mindview/util/Generated.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/net/mindview/util/Generated.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/net/mindview/util/Generator.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/net/mindview/util/Generator.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/net/mindview/util/Hex.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/net/mindview/util/Hex.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/net/mindview/util/MapData.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/net/mindview/util/MapData.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/net/mindview/util/New.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/net/mindview/util/New.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/net/mindview/util/Null.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/net/mindview/util/Null.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/net/mindview/util/OSExecute.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/net/mindview/util/OSExecute.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/net/mindview/util/OSExecuteException.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/net/mindview/util/OSExecuteException.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/net/mindview/util/PPrint.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/net/mindview/util/PPrint.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/net/mindview/util/Pair.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/net/mindview/util/Pair.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/net/mindview/util/Print.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/net/mindview/util/Print.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/net/mindview/util/ProcessFiles.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/net/mindview/util/ProcessFiles.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/net/mindview/util/RandomGenerator.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/net/mindview/util/RandomGenerator.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/net/mindview/util/Range.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/net/mindview/util/Range.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/net/mindview/util/Sets.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/net/mindview/util/Sets.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/net/mindview/util/Stack.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/net/mindview/util/Stack.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/net/mindview/util/SwingConsole.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/net/mindview/util/SwingConsole.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/net/mindview/util/TaskItem.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/net/mindview/util/TaskItem.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/net/mindview/util/TaskManager.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/net/mindview/util/TaskManager.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/net/mindview/util/TextFile.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/net/mindview/util/TextFile.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/net/mindview/util/ThreeTuple.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/net/mindview/util/ThreeTuple.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/net/mindview/util/Tuple.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/net/mindview/util/Tuple.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/net/mindview/util/TwoTuple.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/net/mindview/util/TwoTuple.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/net/mindview/util/TypeCounter.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/net/mindview/util/TypeCounter.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/object/Documentation1.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/object/Documentation1.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/object/Documentation2.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/object/Documentation2.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/object/Documentation3.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/object/Documentation3.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/object/HelloDate.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/object/HelloDate.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/object/ShowProperties.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/object/ShowProperties.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/object/build.xml" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/object/build.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/operators/AllOps.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/operators/AllOps.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/operators/Assignment.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/operators/Assignment.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/operators/AutoInc.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/operators/AutoInc.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/operators/BitManipulation.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/operators/BitManipulation.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/operators/Bool.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/operators/Bool.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/operators/Casting.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/operators/Casting.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/operators/CastingNumbers.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/operators/CastingNumbers.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/operators/EqualsMethod.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/operators/EqualsMethod.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/operators/EqualsMethod2.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/operators/EqualsMethod2.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/operators/Equivalence.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/operators/Equivalence.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/operators/Exponents.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/operators/Exponents.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/operators/HelloDate.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/operators/HelloDate.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/operators/Literals.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/operators/Literals.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/operators/MathOps.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/operators/MathOps.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/operators/Overflow.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/operators/Overflow.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/operators/PassObject.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/operators/PassObject.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/operators/Precedence.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/operators/Precedence.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/operators/RoundingNumbers.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/operators/RoundingNumbers.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/operators/ShortCircuit.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/operators/ShortCircuit.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/operators/StringOperators.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/operators/StringOperators.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/operators/TernaryIfElse.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/operators/TernaryIfElse.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/operators/URShift.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/operators/URShift.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/operators/build.xml" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/operators/build.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/polymorphism/CovariantReturn.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/polymorphism/CovariantReturn.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/polymorphism/FieldAccess.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/polymorphism/FieldAccess.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/polymorphism/Frog.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/polymorphism/Frog.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/polymorphism/PolyConstructors.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/polymorphism/PolyConstructors.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/polymorphism/PrivateOverride.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/polymorphism/PrivateOverride.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/polymorphism/RTTI.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/polymorphism/RTTI.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/polymorphism/ReferenceCounting.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/polymorphism/ReferenceCounting.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/polymorphism/Sandwich.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/polymorphism/Sandwich.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/polymorphism/Shapes.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/polymorphism/Shapes.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/polymorphism/StaticPolymorphism.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/polymorphism/StaticPolymorphism.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/polymorphism/Transmogrify.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/polymorphism/Transmogrify.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/polymorphism/build.xml" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/polymorphism/build.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/polymorphism/music/Instrument.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/polymorphism/music/Instrument.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/polymorphism/music/Music.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/polymorphism/music/Music.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/polymorphism/music/Music2.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/polymorphism/music/Music2.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/polymorphism/music/Note.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/polymorphism/music/Note.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/polymorphism/music/Wind.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/polymorphism/music/Wind.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/polymorphism/music3/Music3.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/polymorphism/music3/Music3.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/polymorphism/shape/Circle.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/polymorphism/shape/Circle.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/polymorphism/shape/RandomShapeGenerator.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/polymorphism/shape/RandomShapeGenerator.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/polymorphism/shape/Shape.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/polymorphism/shape/Shape.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/polymorphism/shape/Square.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/polymorphism/shape/Square.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/polymorphism/shape/Triangle.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/polymorphism/shape/Triangle.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/reusing/Bath.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/reusing/Bath.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/reusing/Beetle.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/reusing/Beetle.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/reusing/BlankFinal.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/reusing/BlankFinal.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/reusing/CADSystem.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/reusing/CADSystem.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/reusing/Car.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/reusing/Car.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/reusing/Cartoon.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/reusing/Cartoon.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/reusing/Chess.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/reusing/Chess.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/reusing/Detergent.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/reusing/Detergent.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/reusing/FinalArguments.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/reusing/FinalArguments.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/reusing/FinalData.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/reusing/FinalData.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/reusing/FinalOverridingIllusion.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/reusing/FinalOverridingIllusion.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/reusing/Hide.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/reusing/Hide.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/reusing/Jurassic.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/reusing/Jurassic.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/reusing/Lisa.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/reusing/Lisa.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/reusing/Orc.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/reusing/Orc.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/reusing/PlaceSetting.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/reusing/PlaceSetting.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/reusing/SpaceShip.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/reusing/SpaceShip.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/reusing/SpaceShipControls.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/reusing/SpaceShipControls.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/reusing/SpaceShipDelegation.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/reusing/SpaceShipDelegation.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/reusing/SprinklerSystem.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/reusing/SprinklerSystem.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/reusing/Wind.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/reusing/Wind.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/reusing/build.xml" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/reusing/build.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/strings/ArrayListDisplay.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/strings/ArrayListDisplay.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/strings/BetterRead.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/strings/BetterRead.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/strings/Concatenation.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/strings/Concatenation.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/strings/Conversion.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/strings/Conversion.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/strings/DatabaseException.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/strings/DatabaseException.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/strings/Finding.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/strings/Finding.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/strings/Groups.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/strings/Groups.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/strings/Immutable.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/strings/Immutable.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/strings/InfiniteRecursion.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/strings/InfiniteRecursion.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/strings/IntegerMatch.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/strings/IntegerMatch.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/strings/JGrep.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/strings/JGrep.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/strings/ReFlags.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/strings/ReFlags.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/strings/Receipt.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/strings/Receipt.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/strings/Replacing.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/strings/Replacing.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/strings/ReplacingStringTokenizer.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/strings/ReplacingStringTokenizer.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/strings/Resetting.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/strings/Resetting.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/strings/Rudolph.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/strings/Rudolph.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/strings/ScannerDelimiter.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/strings/ScannerDelimiter.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/strings/SimpleFormat.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/strings/SimpleFormat.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/strings/SimpleRead.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/strings/SimpleRead.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/strings/SplitDemo.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/strings/SplitDemo.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/strings/Splitting.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/strings/Splitting.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/strings/StartEnd.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/strings/StartEnd.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/strings/TestRegularExpression.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/strings/TestRegularExpression.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/strings/TheReplacements.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/strings/TheReplacements.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/strings/ThreatAnalyzer.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/strings/ThreatAnalyzer.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/strings/Turtle.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/strings/Turtle.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/strings/UsingStringBuilder.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/strings/UsingStringBuilder.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/strings/WhitherStringBuilder.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/strings/WhitherStringBuilder.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/strings/build.xml" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/strings/build.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/swt/ColorBoxes.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/swt/ColorBoxes.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/swt/DisplayEnvironment.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/swt/DisplayEnvironment.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/swt/DisplayProperties.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/swt/DisplayProperties.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/swt/HelloSWT.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/swt/HelloSWT.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/swt/Menus.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/swt/Menus.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/swt/ShellsAreMainWindows.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/swt/ShellsAreMainWindows.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/swt/SineWave.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/swt/SineWave.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/swt/TabbedPane.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/swt/TabbedPane.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/swt/build.xml" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/swt/build.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/swt/util/SWTApplication.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/swt/util/SWTApplication.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/swt/util/SWTConsole.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/swt/util/SWTConsole.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/typeinfo/AnonymousImplementation.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/typeinfo/AnonymousImplementation.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/typeinfo/BoundedClassReferences.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/typeinfo/BoundedClassReferences.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/typeinfo/ClassCasts.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/typeinfo/ClassCasts.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/typeinfo/ClassInitialization.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/typeinfo/ClassInitialization.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/typeinfo/FamilyVsExactType.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/typeinfo/FamilyVsExactType.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/typeinfo/FilledList.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/typeinfo/FilledList.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/typeinfo/GenericClassReferences.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/typeinfo/GenericClassReferences.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/typeinfo/HiddenImplementation.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/typeinfo/HiddenImplementation.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/typeinfo/InnerImplementation.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/typeinfo/InnerImplementation.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/typeinfo/InterfaceViolation.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/typeinfo/InterfaceViolation.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/typeinfo/ModifyingPrivateFields.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/typeinfo/ModifyingPrivateFields.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/typeinfo/NullRobot.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/typeinfo/NullRobot.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/typeinfo/Operation.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/typeinfo/Operation.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/typeinfo/Person.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/typeinfo/Person.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/typeinfo/PetCount.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/typeinfo/PetCount.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/typeinfo/PetCount2.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/typeinfo/PetCount2.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/typeinfo/PetCount3.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/typeinfo/PetCount3.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/typeinfo/PetCount4.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/typeinfo/PetCount4.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/typeinfo/Position.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/typeinfo/Position.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/typeinfo/RegisteredFactories.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/typeinfo/RegisteredFactories.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/typeinfo/Robot.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/typeinfo/Robot.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/typeinfo/SelectingMethods.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/typeinfo/SelectingMethods.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/typeinfo/Shapes.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/typeinfo/Shapes.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/typeinfo/ShowMethods.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/typeinfo/ShowMethods.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/typeinfo/SimpleDynamicProxy.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/typeinfo/SimpleDynamicProxy.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/typeinfo/SimpleProxyDemo.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/typeinfo/SimpleProxyDemo.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/typeinfo/SnowRemovalRobot.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/typeinfo/SnowRemovalRobot.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/typeinfo/Staff.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/typeinfo/Staff.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/typeinfo/SweetShop.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/typeinfo/SweetShop.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/typeinfo/WildcardClassReferences.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/typeinfo/WildcardClassReferences.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/typeinfo/build.xml" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/typeinfo/build.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/typeinfo/factory/Factory.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/typeinfo/factory/Factory.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/typeinfo/interfacea/A.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/typeinfo/interfacea/A.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/typeinfo/packageaccess/HiddenC.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/typeinfo/packageaccess/HiddenC.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/typeinfo/pets/Cat.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/typeinfo/pets/Cat.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/typeinfo/pets/Cymric.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/typeinfo/pets/Cymric.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/typeinfo/pets/Dog.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/typeinfo/pets/Dog.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/typeinfo/pets/EgyptianMau.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/typeinfo/pets/EgyptianMau.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/typeinfo/pets/ForNameCreator.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/typeinfo/pets/ForNameCreator.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/typeinfo/pets/Hamster.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/typeinfo/pets/Hamster.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/typeinfo/pets/Individual.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/typeinfo/pets/Individual.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/typeinfo/pets/LiteralPetCreator.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/typeinfo/pets/LiteralPetCreator.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/typeinfo/pets/Manx.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/typeinfo/pets/Manx.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/typeinfo/pets/Mouse.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/typeinfo/pets/Mouse.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/typeinfo/pets/Mutt.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/typeinfo/pets/Mutt.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/typeinfo/pets/Person.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/typeinfo/pets/Person.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/typeinfo/pets/Pet.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/typeinfo/pets/Pet.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/typeinfo/pets/PetCreator.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/typeinfo/pets/PetCreator.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/typeinfo/pets/Pets.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/typeinfo/pets/Pets.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/typeinfo/pets/Pug.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/typeinfo/pets/Pug.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/typeinfo/pets/Rat.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/typeinfo/pets/Rat.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/typeinfo/pets/Rodent.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/typeinfo/pets/Rodent.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/typeinfo/toys/GenericToyTest.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/typeinfo/toys/GenericToyTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/typeinfo/toys/ToyTest.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/typeinfo/toys/ToyTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/xml/People.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/xml/People.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/xml/Person.java" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/xml/Person.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/TIJ4-code/xml/build.xml" afterPath="$PROJECT_DIR$/src/main/java/TIJ4-code/xml/build.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -109,7 +979,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/cn/ghaien/five/one/RoShamBo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
-              <caret line="15" column="35" lean-forward="true" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+              <caret line="15" column="35" lean-forward="false" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -143,18 +1013,6 @@
                 <element signature="e#537#538#0" expanded="false" />
                 <element signature="e#584#585#0" expanded="false" />
                 <element signature="e#612#613#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ReferenceCountingGC.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/cn/ghaien/five/one/ReferenceCountingGC.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -274,6 +1132,126 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thinking-in-java-exercise" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thinking-in-java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thinking-in-java-exercise" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thinking-in-java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thinking-in-java-exercise" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thinking-in-java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thinking-in-java-exercise" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thinking-in-java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thinking-in-java-exercise" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thinking-in-java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TIJ4-code" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thinking-in-java-exercise" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thinking-in-java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TIJ4-code" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="access" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -292,6 +1270,9 @@
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
       <recent name="cn.ghaien.five.one" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\git项目\thinking-in-java\src\main\java" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="cn.ghaien.five.one" />
@@ -834,7 +1815,7 @@
       <workItem from="1500356757158" duration="594000" />
       <workItem from="1500357386879" duration="922000" />
       <workItem from="1500358373262" duration="23311000" />
-      <workItem from="1500597420703" duration="665000" />
+      <workItem from="1500597420703" duration="930000" />
     </task>
     <task id="LOCAL-00001" summary="新增练习5.1">
       <created>1499854421945</created>
@@ -854,7 +1835,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65059000" />
+    <option name="totallyTimeSpent" value="65324000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -925,24 +1906,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/ghaien/five/one/PostOffice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1628">
-          <caret line="75" column="23" lean-forward="false" selection-start-line="75" selection-start-column="23" selection-end-line="75" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#3360#3361#0" expanded="false" />
-            <element signature="e#3396#3397#0" expanded="false" />
-            <element signature="e#4455#4456#0" expanded="false" />
-            <element signature="e#4501#4502#0" expanded="false" />
-            <element signature="e#4535#4536#0" expanded="false" />
-            <element signature="e#4586#4587#0" expanded="false" />
-            <element signature="e#4622#4623#0" expanded="false" />
-            <element signature="e#4695#4696#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/ghaien/five/one/VendingMachine.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1628">
@@ -1519,10 +2482,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/TIJ4-code/access/build.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="51" lean-forward="false" selection-start-line="13" selection-start-column="51" selection-end-line="13" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/ghaien/five/one/RoShamBo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
-          <caret line="15" column="35" lean-forward="true" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+          <caret line="15" column="35" lean-forward="false" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
           <folding />
         </state>
       </provider>
