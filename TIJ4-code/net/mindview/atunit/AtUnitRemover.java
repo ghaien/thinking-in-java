@@ -33,7 +33,7 @@ implements ProcessFiles.Strategy {
     try {
       String cName = ClassNameFinder.thisClass(
         BinaryFile.read(cFile));
-      if(!cName.contains("."))
+      if(!cName.contains(""))
         return; // Ignore unpackaged classes
       ClassPool cPool = ClassPool.getDefault();
       CtClass ctClass = cPool.get(cName);

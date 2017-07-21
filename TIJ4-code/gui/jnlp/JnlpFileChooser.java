@@ -49,7 +49,7 @@ public class JnlpFileChooser extends JFrame {
       }
       if(fs != null) {
         try {
-          fileContents = fs.openFileDialog(".",
+          fileContents = fs.openFileDialog("",
             new String[]{"txt", "*"});
           if(fileContents == null)
             return;
@@ -73,7 +73,7 @@ public class JnlpFileChooser extends JFrame {
       }
       if(fs != null) {
         try {
-          fileContents = fs.saveFileDialog(".",
+          fileContents = fs.saveFileDialog("",
             new String[]{"txt"},
             new ByteArrayInputStream(
               ep.getText().getBytes()),

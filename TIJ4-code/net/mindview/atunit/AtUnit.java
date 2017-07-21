@@ -31,7 +31,7 @@ public class AtUnit implements ProcessFiles.Strategy {
     try {
       String cName = ClassNameFinder.thisClass(
         BinaryFile.read(cFile));
-      if(!cName.contains("."))
+      if(!cName.contains(""))
         return; // Ignore unpackaged classes
       testClass = Class.forName(cName);
     } catch(Exception e) {
@@ -62,7 +62,7 @@ public class AtUnit implements ProcessFiles.Strategy {
       Print.print(testClass.getName());
     }
     for(Method m : testMethods) {
-      Print.printnb("  . " + m.getName() + " ");
+      Print.printnb(" " + m.getName() + " ");
       try {
         Object testObject = createTestObject(creator);
         boolean success = false;

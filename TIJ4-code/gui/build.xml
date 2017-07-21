@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 
 <project
- basedir="."
+ basedir=""
  default="run"
  name="Thinking in Java, 4th Edition by Bruce Eckel (chapter: gui)">
 
@@ -58,7 +58,7 @@
     <java
      classname="BangBean2"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../gui/"
+     dir="/"
      failonerror="false"
      fork="true"
      timeout="4000"/>
@@ -69,7 +69,7 @@
     <java
      classname="BeanDumper"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../gui/"
+     dir="/"
      failonerror="false"
      fork="true"
      timeout="4000"/>
@@ -80,7 +80,7 @@
     <java
      classname="BorderLayout1"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../gui/"
+     dir="/"
      failonerror="false"
      fork="true"
      timeout="4000"/>
@@ -91,7 +91,7 @@
     <java
      classname="Borders"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../gui/"
+     dir="/"
      failonerror="false"
      fork="true"
      timeout="4000"/>
@@ -102,7 +102,7 @@
     <java
      classname="Button1"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../gui/"
+     dir="/"
      failonerror="false"
      fork="true"
      timeout="4000"/>
@@ -113,7 +113,7 @@
     <java
      classname="Button2"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../gui/"
+     dir="/"
      failonerror="false"
      fork="true"
      timeout="4000"/>
@@ -124,7 +124,7 @@
     <java
      classname="Button2b"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../gui/"
+     dir="/"
      failonerror="false"
      fork="true"
      timeout="4000"/>
@@ -135,7 +135,7 @@
     <java
      classname="ButtonGroups"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../gui/"
+     dir="/"
      failonerror="false"
      fork="true"
      timeout="4000"/>
@@ -146,7 +146,7 @@
     <java
      classname="Buttons"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../gui/"
+     dir="/"
      failonerror="false"
      fork="true"
      timeout="4000"/>
@@ -157,7 +157,7 @@
     <java
      classname="CheckBoxes"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../gui/"
+     dir="/"
      failonerror="false"
      fork="true"
      timeout="4000"/>
@@ -168,7 +168,7 @@
     <java
      classname="ColorBoxes"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../gui/"
+     dir="/"
      failonerror="false"
      fork="true"
      timeout="4000"/>
@@ -179,7 +179,7 @@
     <java
      classname="ComboBoxes"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../gui/"
+     dir="/"
      failonerror="false"
      fork="true"
      timeout="4000"/>
@@ -190,7 +190,7 @@
     <java
      classname="Dialogs"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../gui/"
+     dir="/"
      failonerror="false"
      fork="true"
      timeout="4000"/>
@@ -201,7 +201,7 @@
     <java
      classname="Faces"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../gui/"
+     dir="/"
      failonerror="false"
      fork="true"
      timeout="4000"/>
@@ -212,7 +212,7 @@
     <java
      classname="FileChooserTest"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../gui/"
+     dir="/"
      failonerror="false"
      fork="true"
      timeout="4000"/>
@@ -223,7 +223,7 @@
     <java
      classname="FlowLayout1"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../gui/"
+     dir="/"
      failonerror="false"
      fork="true"
      timeout="4000"/>
@@ -234,7 +234,7 @@
     <java
      classname="GridLayout1"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../gui/"
+     dir="/"
      failonerror="false"
      fork="true"
      timeout="4000"/>
@@ -245,7 +245,7 @@
     <java
      classname="HelloLabel"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../gui/"
+     dir="/"
      failonerror="false"
      fork="true"
      timeout="4000"/>
@@ -256,7 +256,7 @@
     <java
      classname="HelloSwing"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../gui/"
+     dir="/"
      failonerror="false"
      fork="true"
      timeout="4000"/>
@@ -267,7 +267,7 @@
     <java
      classname="HTMLButton"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../gui/"
+     dir="/"
      failonerror="false"
      fork="true"
      timeout="4000"/>
@@ -278,7 +278,7 @@
     <java
      classname="InterruptableLongRunningCallable"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../gui/"
+     dir="/"
      failonerror="false"
      fork="true"
      timeout="4000"/>
@@ -289,7 +289,7 @@
     <java
      classname="InterruptableLongRunningTask"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../gui/"
+     dir="/"
      failonerror="false"
      fork="true"
      timeout="4000"/>
@@ -300,7 +300,7 @@
     <java
      classname="List"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../gui/"
+     dir="/"
      failonerror="false"
      fork="true"
      timeout="4000"/>
@@ -311,7 +311,7 @@
     <java
      classname="LongRunningTask"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../gui/"
+     dir="/"
      failonerror="false"
      fork="true"
      timeout="4000"/>
@@ -322,7 +322,7 @@
     <java
      classname="LookAndFeel"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../gui/"
+     dir="/"
      failonerror="false"
      fork="true"
      timeout="4000">
@@ -335,7 +335,7 @@
     <java
      classname="Menus"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../gui/"
+     dir="/"
      failonerror="false"
      fork="true"
      timeout="4000"/>
@@ -346,7 +346,7 @@
     <java
      classname="MessageBoxes"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../gui/"
+     dir="/"
      failonerror="false"
      fork="true"
      timeout="4000"/>
@@ -357,7 +357,7 @@
     <java
      classname="MonitoredLongRunningCallable"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../gui/"
+     dir="/"
      failonerror="false"
      fork="true"
      timeout="4000"/>
@@ -368,7 +368,7 @@
     <java
      classname="Popup"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../gui/"
+     dir="/"
      failonerror="false"
      fork="true"
      timeout="4000"/>
@@ -379,7 +379,7 @@
     <java
      classname="Progress"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../gui/"
+     dir="/"
      failonerror="false"
      fork="true"
      timeout="4000"/>
@@ -390,7 +390,7 @@
     <java
      classname="RadioButtons"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../gui/"
+     dir="/"
      failonerror="false"
      fork="true"
      timeout="4000"/>
@@ -401,7 +401,7 @@
     <java
      classname="ShowAddListeners"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../gui/"
+     dir="/"
      failonerror="false"
      fork="true"
      timeout="4000"/>
@@ -412,7 +412,7 @@
     <java
      classname="SimpleMenus"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../gui/"
+     dir="/"
      failonerror="false"
      fork="true"
      timeout="4000"/>
@@ -423,7 +423,7 @@
     <java
      classname="SineWave"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../gui/"
+     dir="/"
      failonerror="false"
      fork="true"
      timeout="4000"/>
@@ -434,7 +434,7 @@
     <java
      classname="SubmitLabelManipulationTask"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../gui/"
+     dir="/"
      failonerror="false"
      fork="true"
      timeout="4000"/>
@@ -445,7 +445,7 @@
     <java
      classname="SubmitSwingProgram"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../gui/"
+     dir="/"
      failonerror="false"
      fork="true"
      timeout="4000"/>
@@ -456,7 +456,7 @@
     <java
      classname="TabbedPane1"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../gui/"
+     dir="/"
      failonerror="false"
      fork="true"
      timeout="4000"/>
@@ -467,7 +467,7 @@
     <java
      classname="TextArea"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../gui/"
+     dir="/"
      failonerror="false"
      fork="true"
      timeout="4000"/>
@@ -478,7 +478,7 @@
     <java
      classname="TextFields"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../gui/"
+     dir="/"
      failonerror="false"
      fork="true"
      timeout="4000"/>
@@ -489,7 +489,7 @@
     <java
      classname="TextPane"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../gui/"
+     dir="/"
      failonerror="false"
      fork="true"
      timeout="4000"/>
@@ -500,7 +500,7 @@
     <java
      classname="TicTacToe"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../gui/"
+     dir="/"
      failonerror="false"
      fork="true"
      timeout="4000"/>
@@ -511,7 +511,7 @@
     <java
      classname="TrackEvent"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../gui/"
+     dir="/"
      failonerror="false"
      fork="true"
      timeout="4000"/>
@@ -522,7 +522,7 @@
     <java
      classname="gui.jnlp.JnlpFileChooser"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../gui/jnlp/"
+     dir="jnlp/"
      failonerror="false"
      fork="true"
      timeout="4000"/>

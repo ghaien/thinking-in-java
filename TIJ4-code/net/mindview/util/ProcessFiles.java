@@ -15,7 +15,7 @@ public class ProcessFiles {
   public void start(String[] args) {
     try {
       if(args.length == 0)
-        processDirectoryTree(new File("."));
+        processDirectoryTree(new File(""));
       else
         for(String arg : args) {
           File fileArg = new File(arg);
@@ -23,8 +23,8 @@ public class ProcessFiles {
             processDirectoryTree(fileArg);
           else {
             // Allow user to leave off extension:
-            if(!arg.endsWith("." + ext))
-              arg += "." + ext;
+            if(!arg.endsWith("" + ext))
+              arg += "" + ext;
             strategy.process(
               new File(arg).getCanonicalFile());
           }

@@ -16,7 +16,7 @@ public class DirList2 {
     }; // End of anonymous inner class
   }
   public static void main(String[] args) {
-    File path = new File(".");
+    File path = new File("");
     String[] list;
     if(args.length == 0)
       list = path.list();

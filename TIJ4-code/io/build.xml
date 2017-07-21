@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 
 <project
- basedir="."
+ basedir=""
  default="run"
  name="Thinking in Java, 4th Edition by Bruce Eckel (chapter: io)">
 
@@ -51,7 +51,7 @@
     <java
      classname="AvailableCharSets"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../io/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -60,7 +60,7 @@
     <java
      classname="BasicFileOutput"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../io/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -69,7 +69,7 @@
     <java
      classname="Blip3"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../io/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -78,7 +78,7 @@
     <java
      classname="Blips"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../io/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -87,7 +87,7 @@
     <java
      classname="BufferedInputFile"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../io/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -96,7 +96,7 @@
     <java
      classname="BufferToText"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../io/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -105,7 +105,7 @@
     <java
      classname="ChangeSystemOut"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../io/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -114,7 +114,7 @@
     <java
      classname="ChannelCopy"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../io/"
+     dir="/"
      failonerror="true"
      fork="true">
       <arg line="ChannelCopy.java test.txt"/>
@@ -125,7 +125,7 @@
     <java
      classname="DirectoryDemo"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../io/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -134,7 +134,7 @@
     <java
      classname="DirList"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../io/"
+     dir="/"
      failonerror="true"
      fork="true">
       <arg line='"D.*\.java"'/>
@@ -146,7 +146,7 @@
     <java
      classname="DirList2"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../io/"
+     dir="/"
      failonerror="true"
      fork="true">
       <arg line='"D.*\.java"'/>
@@ -158,7 +158,7 @@
     <java
      classname="DirList3"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../io/"
+     dir="/"
      failonerror="true"
      fork="true">
       <arg line='"D.*\.java"'/>
@@ -170,7 +170,7 @@
     <java
      classname="Echo"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../io/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -179,7 +179,7 @@
     <java
      classname="Endians"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../io/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -188,7 +188,7 @@
     <java
      classname="FileLocking"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../io/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -197,7 +197,7 @@
     <java
      classname="FileOutputShortcut"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../io/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -206,7 +206,7 @@
     <java
      classname="FormattedMemoryInput"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../io/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -215,7 +215,7 @@
     <java
      classname="FreezeAlien"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../io/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -224,7 +224,7 @@
     <java
      classname="GetChannel"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../io/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -233,7 +233,7 @@
     <java
      classname="GetData"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../io/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -242,7 +242,7 @@
     <java
      classname="GZIPcompress"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../io/"
+     dir="/"
      failonerror="true"
      fork="true">
       <arg line="GZIPcompress.java"/>
@@ -253,7 +253,7 @@
     <java
      classname="IntBufferDemo"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../io/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -262,7 +262,7 @@
     <java
      classname="LargeMappedFiles"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../io/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -271,7 +271,7 @@
     <java
      classname="LockingMappedFiles"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../io/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -280,7 +280,7 @@
     <java
      classname="Logon"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../io/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -289,7 +289,7 @@
     <java
      classname="MakeDirectories"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../io/"
+     dir="/"
      failonerror="true"
      fork="true">
       <arg line="MakeDirectoriesTest"/>
@@ -300,7 +300,7 @@
     <java
      classname="MappedIO"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../io/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -309,7 +309,7 @@
     <java
      classname="MemoryInput"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../io/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -318,7 +318,7 @@
     <java
      classname="MyWorld"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../io/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -327,7 +327,7 @@
     <java
      classname="OSExecuteDemo"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../io/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -336,7 +336,7 @@
     <java
      classname="PreferencesDemo"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../io/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -345,7 +345,7 @@
     <java
      classname="RecoverCADState"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../io/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -354,7 +354,7 @@
     <java
      classname="Redirecting"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../io/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -363,7 +363,7 @@
     <java
      classname="SerialCtl"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../io/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -372,7 +372,7 @@
     <java
      classname="StoreCADState"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../io/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -381,7 +381,7 @@
     <java
      classname="StoringAndRecoveringData"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../io/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -390,7 +390,7 @@
     <java
      classname="TestEOF"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../io/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -399,7 +399,7 @@
     <java
      classname="TransferTo"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../io/"
+     dir="/"
      failonerror="true"
      fork="true">
       <arg line="TransferTo.java TransferTo.txt"/>
@@ -410,7 +410,7 @@
     <java
      classname="UsingBuffers"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../io/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -419,7 +419,7 @@
     <java
      classname="UsingRandomAccessFile"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../io/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -428,7 +428,7 @@
     <java
      classname="ViewBuffers"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../io/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -437,7 +437,7 @@
     <java
      classname="Worm"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../io/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -446,7 +446,7 @@
     <java
      classname="ZipCompress"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../io/"
+     dir="/"
      failonerror="true"
      fork="true">
       <arg line="ZipCompress.java"/>
@@ -457,7 +457,7 @@
     <java
      classname="ThawAlien"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../io/xfiles/"
+     dir="xfiles/"
      failonerror="true"
      fork="true"/>
   </target>
